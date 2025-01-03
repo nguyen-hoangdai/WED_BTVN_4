@@ -1,0 +1,156 @@
+.logo-header img{
+    margin-left: 20px;
+    width: 20%;
+    height: 120px;
+}
+
+.sreach-header{
+    margin-top: 45px;
+}
+
+.content-right-header h3{
+    text-align: center;
+    margin-top: 49px;
+}
+
+.navbar-css{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.left-item{
+    border: 3px solid #0FBFC4 ;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.left-item p{
+    margin-left:10px
+}
+
+.background_header_item img{
+    width: 10%;
+    margin-left:10px;
+    margin-right:20px
+}
+
+.background_header_item{
+    background-color: #E1EDED;
+    color: #0FBFC4;
+    padding:5px 0px;
+    margin-top:0px;
+}
+
+.content-banner-right img{
+    width: 100%;
+}
+
+.content-title{
+    border: 1px solid black;
+    box-shadow: 0px 5px 15px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.content-title h2{
+    text-align: center;
+    padding-bottom: 9px;
+    color: #71B7CA;
+}
+
+.nami{
+    border: 1px solid black;
+    box-shadow: 0px 5px 15px;
+    margin-top: 16px;
+    margin-bottom: 16px; 
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.nami-picture img{
+    width: 102%;
+    height: 292px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nami-content{
+    padding-right: 6%;
+}
+
+.nami-content h2{
+    margin-top: 7px;
+    color: #71B7CA;
+}
+
+.nami-content h4{
+    color: orange;
+}
+
+.park{
+    border: 1px solid black;
+    box-shadow: 0px 5px 15px;
+    margin-top: 16px;
+    margin-bottom: 16px; 
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.park-picture img{
+    width: 102%;
+    height: 292px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.park-content{
+    padding-right: 6%;
+}
+
+.park-content h2{
+    margin-top: 7px;
+    color: #71B7CA;
+}
+
+.park-content h4{
+    color: orange;
+}
+
+.footer{
+    background-color: #0FBFC4;
+}
+
+.footer-content{
+    text-align: center;
+    color: aliceblue;
+}
+
+@media screen and (max-width: 767.98px) {
+    .logo-header img {
+        margin-left: 41%;
+        width: 17%;
+        height: 120px;
+    }
+
+    .sreach-header {
+        margin-top: 45px;
+        margin-left: 20px;
+    }
+
+    .sreach-header input{
+        height: 45px;
+    }
+
+    .content-right-header h3 {
+        text-align: center;
+        margin-top: 12px;
+    }
+
+    .content-title{
+        height: 97px;
+    }
+    
+    .content-title h2{
+        margin-top: 29px;
+    }
+}
